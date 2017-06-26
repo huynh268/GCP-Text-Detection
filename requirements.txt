@@ -1,0 +1,4 @@
+Pillow==4.1.1
+google.cloud
+virtualenv
+enum
